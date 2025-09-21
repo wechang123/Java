@@ -1,0 +1,18 @@
+# JDK files
+jdk-24.0.2.jdk/
+
+# Mac OS files
+.DS_Store
+
+# Java compiled files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE files
+.vscode/
+.idea/
+*.iml
